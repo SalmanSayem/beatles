@@ -1,0 +1,329 @@
+@media (max-width: 575.98px) {
+    /* Top Part Start */
+    #top{
+        padding: 5px 0;
+    }
+    #top .icon {
+        display: flex;
+        gap: 16px;
+    }
+    
+    /* Top Part End */
+
+    /* Navber Part Start */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-link{
+        text-align: end;
+        padding: 5px 0 !important;
+        padding-right: 13px !important;
+    }
+    .nav_icon{
+        color: #0872b9;
+        font-size: 24px;
+        transition: all linear .3s;
+    }
+    .sticky .nav_icon{
+        font-size: 20px;
+    }
+    /* Navber Part End */
+
+    /* Banner Part Start */
+    #banner .overlay {
+        padding: 65px 0;
+    }
+    #banner .text_part h2 {
+        font-size: 28px;
+    }
+    #banner .text_part h1 {
+        font-size: 35px;
+        padding-top: 8px;
+        padding-bottom: 20px;
+    }
+    #banner .btn_part {
+        gap: 15px;
+        padding-top: 20px;
+    }
+    /* Banner Part End */
+
+    /* About Part Start */
+    #about {
+        padding: 45px 0;
+    }
+    #about .sec_heading {
+        margin-bottom: 30px;
+    }
+    #about .about_img {
+        width: 90% !important;
+        margin-bottom: 10px;
+    }
+    /* About Part End */
+
+    /* Service Part Start */
+    #service {
+        padding-bottom: 30px;
+    }
+    #service .sec_heading {
+        margin-bottom: 30px;
+    }
+    #service .item {
+        margin: 30px 10px;
+    }
+    /* Service Part End */
+
+    /* Portfolio Part Start */
+    #portfolio .img {
+        margin: 12px 0;
+    }
+    /* Portfolio Part End */
+
+    /* Team Part Start */
+    #team .sec_heading {
+        margin-bottom: 20px;
+    }
+    #team .team_item{
+        margin: 20px 0;
+    }
+    /* Team Part End */
+
+    /* Testimonial Part Start */
+    #testimonial .sec_heading {
+        margin-bottom: 15px;
+    }
+    #testimonial .t_item{
+        margin: 15px 0;
+    }
+    /* Testimonial Part End */
+
+    /* Footer1 Part Start */
+    #footer_1 .heading h4 {
+        height: 45px;
+    }
+    #footer_1 .f_sec_2{
+        margin: 15px 0;
+    }
+    #footer_1 .f_sec_3{
+        margin: 15px 0;
+    }
+    /* Footer1 Part End */
+}
+@media(min-width: 576px) and (max-width: 767.98px) {
+    /* Top Part Start */
+    #top{
+        padding: 8px 0;
+    }
+    #top .icon {
+        display: flex;
+        gap: 20px;
+    }
+    
+    /* Top Part End */
+
+    /* Navber Part Start */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-link{
+        text-align: end;
+        padding: 5px 0 !important;
+        padding-right: 13px !important;
+    }
+    .nav_icon{
+        color: #0872b9;
+        font-size: 24px;
+        transition: all linear .3s;
+    }
+    .sticky .nav_icon{
+        font-size: 20px;
+    }
+    /* Navber Part End */
+
+    /* Banner Part Start */
+    #banner .overlay {
+        padding: 65px 0;
+    }
+    #banner .text_part h2 {
+        font-size: 28px;
+    }
+    #banner .text_part h1 {
+        font-size: 35px;
+        padding-top: 8px;
+        padding-bottom: 20px;
+    }
+    #banner .btn_part {
+        gap: 15px;
+        padding-top: 20px;
+    }
+    /* Banner Part End */
+
+    /* About Part Start */
+    #about {
+        padding: 45px 0;
+    }
+    #about .sec_heading {
+        margin-bottom: 30px;
+    }
+    #about .about_img {
+        width: 90% !important;
+        margin-bottom: 10px;
+    }
+    /* About Part End */
+
+    /* Service Part Start */
+    #service {
+        padding-bottom: 30px;
+    }
+    #service .sec_heading {
+        margin-bottom: 30px;
+    }
+    #service .item {
+        margin: 30px 10px;
+    }
+    /* Service Part End */
+
+    /* Portfolio Part Start */
+    #portfolio .img {
+        margin: 15px 0;
+    }
+    /* Portfolio Part End */
+
+    /* Team Part Start */
+    #team .sec_heading {
+        margin-bottom: 20px;
+    }
+    #team .team_item{
+        margin: 20px 0;
+    }
+    /* Team Part End */
+
+    /* Testimonial Part Start */
+    #testimonial .sec_heading {
+        margin-bottom: 15px;
+    }
+    #testimonial .t_item{
+        margin: 15px 0;
+    }
+    /* Testimonial Part End */
+
+    /* Footer1 Part Start */
+    #footer_1 .heading h4 {
+        height: 45px;
+    }
+    #footer_1 .f_sec_2{
+        margin: 15px 0;
+    }
+    #footer_1 .f_sec_3{
+        margin: 15px 0;
+    }
+    /* Footer1 Part End */
+}
+@media(min-width: 768px) and (max-width: 991.98px) {
+    /* Top Part Start */
+    #top{
+        padding: 8px 0;
+    }
+    #top .icon {
+        display: flex;
+        gap: 20px;
+    }
+    /* Top Part End */
+
+    /* Banner Part Start */
+    #banner .overlay {
+        padding: 65px 0;
+    }
+    #banner .text_part h2 {
+        font-size: 28px;
+    }
+    #banner .text_part h1 {
+        font-size: 35px;
+        padding-top: 8px;
+        padding-bottom: 20px;
+    }
+    #banner .btn_part {
+        gap: 15px;
+        padding-top: 20px;
+    }
+    /* Banner Part End */
+
+    /* About Part Start */
+    #about {
+        padding: 45px 0;
+    }
+    #about .sec_heading {
+        margin-bottom: 30px;
+    }
+    /* About Part End */
+
+    /* Service Part Start */
+    #service .sec_heading {
+        margin-bottom: 60px;
+    }
+    /* Service Part End */
+
+    /* Team Part Start */
+    #team .sec_heading {
+        margin-bottom: 20px;
+    }
+    #team .team_item{
+        margin: 20px 0;
+    }
+    /* Team Part End */
+}
+@media(min-width: 992px) and (max-width:1199.98px) {
+    /* Top Part Start */
+    #top{
+        padding: 8px 0;
+    }
+    #top .icon {
+        display: flex;
+        gap: 20px;
+    }
+    /* Top Part End */
+
+    /* Banner Part Start */
+    #banner .overlay {
+        padding: 65px 0;
+    }
+    #banner .text_part h2 {
+        font-size: 28px;
+    }
+    #banner .text_part h1 {
+        font-size: 35px;
+        padding-top: 8px;
+        padding-bottom: 20px;
+    }
+    #banner .btn_part {
+        gap: 15px;
+        padding-top: 20px;
+    }
+    /* Banner Part End */
+
+    /* About Part Start */
+    #about {
+        padding: 45px 0;
+    }
+    #about .sec_heading {
+        margin-bottom: 30px;
+    }
+    /* About Part End */
+
+    /* Service Part Start */
+    #service .sec_heading {
+        margin-bottom: 60px;
+    }
+    /* Service Part End */
+
+    /* Team Part Start */
+    #team .sec_heading {
+        margin-bottom: 20px;
+    }
+    #team .team_item{
+        margin: 20px 0;
+    }
+    /* Team Part End */
+}
+@media(min-width: 1200px) and (max-width:1399.98px){
+
+}
